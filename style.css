@@ -1,0 +1,16 @@
+body{text-align:center ; background-image : url('image/bg.jpg')}
+h1 { font-family : Comic Sans MS ; font-size : 120px ; color : green ; text-align : center ; background-image : url('image/bag.jpg')}
+p { font-size : 24px ; color : white ; text-indent : 30px ; text-align : center}
+h3 { font-style : Freestyle Script ; font-size : 32px ; color : green ; text-align : center }
+h2 { font-size : 48px ; color : #0080FE }
+figure { color : #ffea00}
+span.background-image {background-image: bag.jpg ; height :55mm }
+ul.horiz { list-style-type : none ; }
+ul.horiz li {padding : 20px ; font-size : 32px ; float : left ; font-family : Castellar }
+img.right-align  { float : right ; padding-right : 45 ; padding-top : 20 ; padding-bottom : 45 }
+ul.horiz-ss { list-style-type : none ; color:white ; font-family:Calibri ; font-size : 24px ; text-align : left}
+ul.horiz-ss li {padding : 10px ; font-size : 24px ; text-align:left ; color: white ; font-family:Calibri }
+a:link{color : #ffea00}
+a:active{color : #ffea00}
+a:visited{color : #ffea00}
+a:hover{font-weight : bold ; border : solid orange 1px orange}
